@@ -1,6 +1,8 @@
 # Lead CRM & Messaging System
 
-A comprehensive CRM and Messaging solution that integrates Email Marketing and SMS capabilities (via Google Voice & TextBee). This project allows users to manage leads, send email campaigns, and handle 2-way SMS conversations directly from the dashboard.
+Este proyecto es una solución CRM y de mensajería **de código abierto**, diseñada para democratizar el marketing online. Permite a emprendedores y a quienes se inician en el mundo del marketing enviar mensajes de texto y correos electrónicos de forma similar a las grandes empresas, pero de manera accesible. El objetivo principal es ofrecer herramientas para gestionar el marketing digital, incluyendo la posibilidad de realizar llamadas gratuitas (a través de la integración con Google Voice), facilitando así el desarrollo de estrategias online sin grandes inversiones.
+
+¡Tu ayuda es bienvenida! Si deseas contribuir a completar y mejorar este proyecto, tu colaboración sería fantástica.
 
 ## 🚀 Features
 
@@ -85,7 +87,7 @@ npm start
 cd frontend
 npm run dev
 ```
-*Runs on http://localhost:5173 (or similar)*
+*Runs on http://localhost:5173 (o similar)*
 
 ## ⚠️ Important Note on Google Voice
 This project uses an IMAP polling technique to detect incoming Google Voice SMS messages forwarded to Gmail. Ensure your Google Voice account is configured to forward messages to your Gmail, and that you have enabled "Less Secure Apps" or (preferably) created an **App Password** for your Google account to use in the `.env` file.
