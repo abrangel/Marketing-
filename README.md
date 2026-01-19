@@ -16,6 +16,8 @@ Este proyecto es una solución CRM y de mensajería **de código abierto**, dise
     *   Real-time 2-way SMS chat interface.
     *   Inbox monitoring for incoming SMS.
 *   **Authentication:** Secure user registration and login using JWT (JSON Web Tokens).
+*   ![proyecto](https://github.com/user-attachments/assets/3604f5a6-2aab-4e0d-83f1-6de2a658c56d)
+
 
 ## 🛠️ Tech Stack
 
