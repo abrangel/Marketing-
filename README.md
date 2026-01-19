@@ -93,4 +93,4 @@ npm run dev
 This project uses an IMAP polling technique to detect incoming Google Voice SMS messages forwarded to Gmail. Ensure your Google Voice account is configured to forward messages to your Gmail, and that you have enabled "Less Secure Apps" or (preferably) created an **App Password** for your Google account to use in the `.env` file.
 
 ## 📄 License
-[ISC](https://opensource.org/licenses/ISC)
+[GPLv3](https://www.gnu.org/licenses/gpl-3.0.html)
